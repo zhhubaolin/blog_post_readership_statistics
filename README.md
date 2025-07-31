@@ -2,8 +2,8 @@
 
 ### 环境要求
 - Python 3.9.12
-- Django 4.2.7
-- MySQL 5.8.0
+- Django 4.2.10
+- MySQL 8.0
 - Redis 3.0.5
 
 1. **配置数据库**
